@@ -1,5 +1,4 @@
 import streamlit as st
-import webbrowser
 lang =st.text_input("Language")
 mood =st.text_input("Mood")
 btn= st.button("Recommend me song")
